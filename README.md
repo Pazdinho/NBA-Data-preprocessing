@@ -7,6 +7,6 @@ This is the *SNBA Data preprocessing* project I made myself.
 
 Here's the link to the project: https://hyperskill.org/projects/285?track=44
 
-<p><b>Learning outcomes:</b>Data preprocessing for machine learning algorithms</p>
+<p><b>Learning outcomes:</b> Data preprocessing for machine learning algorithms</p>
 
 <p><b>Please upload the project's files to your local repository from "Data" folder</b></p>
