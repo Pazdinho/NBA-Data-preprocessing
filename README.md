@@ -1,4 +1,4 @@
-# NBA-Data-preprocessing
+# NBA Data preprocessing
 
 This is the *SNBA Data preprocessing* project I made myself.
 
